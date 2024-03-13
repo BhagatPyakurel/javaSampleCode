@@ -7,7 +7,11 @@ public class day1 {
 
 		System.out.println("good Morning");
 		System.out.println("Good AfterNoon");
-		System.out.println("The national flag of Nepal is the world's only national flag that is non-quadrilateral in shape");
+		System.out.println("The national flag of ---- is the world's only national flag that is non-quadrilateral in shape");
+		System.out.println("Bug is fixing");
+		
+		
+		
 		
 	}
 
